@@ -1,6 +1,6 @@
 # Menu-Sederhana-Pandas- MySQL
 
-> Ketika code dijalankan maka tampilan utama akan seperti berikut :
+Ketika code dijalankan maka tampilan utama akan seperti berikut :
 
 Menu utama
  1. Lihat data
@@ -8,7 +8,7 @@ Menu utama
  3. Keluar
  Masukan Pilihan Anda
  
->  Kemudian jika memilih no 1 akan memunculkan data sebagai berikut :
+Kemudian jika memilih no 1 akan memunculkan data sebagai berikut :
  
  Masukan Pilihan Anda 1
    #                   Name  Type1   Type2  Total  HP  Attack  Defense  Sp.Atk  Sp.Def  Speed  Generation Legendary
@@ -18,7 +18,7 @@ Menu utama
 3  3  VenusaurMega Venusaur  Grass  Poison    625  80     100      123     122     120     80           1     False
 4  4             Charmander   Fire     Bug    309  39      52       43      60      50     65           1     False
 
-> Menu 2 akan menampilkan data yang di kelompokan (Distinct) berdasarkan kolom Type2
+Menu 2 akan menampilkan data yang di kelompokan (Distinct) berdasarkan kolom Type2
 
 1        Bug
 2     Flying
@@ -38,8 +38,8 @@ Menu utama
 16      Rock
 17     Water
 
-> Kemudian masukan pilihan data yang akan ditampilkan (misal : no 2)
-> Data akan di filter berdasarkan nomor 2 pada kolom Type2 yaitu Flying
+Kemudian masukan pilihan data yang akan ditampilkan (misal : no 2)
+Data akan di filter berdasarkan nomor 2 pada kolom Type2 yaitu Flying
 
 masukan pilihan anda :2
     #                       Name   Type1   Type2  Total  HP  Attack  Defense  Sp.Atk  Sp.Def  Speed  Generation Legendary
@@ -49,6 +49,6 @@ masukan pilihan anda :2
 3  16                     Pidgey  Normal  Flying    251  40      45       40      35      35     56           1     False
 4  17                  Pidgeotto  Normal  Flying    349  63      60       55      50      50     71           1     False
 
-> Menu 3 : Keluar dari menu, Selesai
+Menu 3 : Keluar dari menu, Selesai
 
 
